@@ -31,7 +31,7 @@
     "@storybook/addons": "^5.2.8",
     "@storybook/react": "^5.2.8",
     "@types/react": "^16.8.23",
-    "@types/react-native": "^0.57.65",
+    "@types/react-native": "^0.73.0",
     "@typescript-eslint/eslint-plugin": "^2.6.1",
     "@typescript-eslint/parser": "^2.6.1",
     "babel-loader": "^8.0.6",
